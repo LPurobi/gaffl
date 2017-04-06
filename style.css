@@ -138,6 +138,10 @@ body{
 	font-size: 25px;
 }  
 
+.navbar-default .navbar-brand {
+    
+    margin-bottom: 15px;
+}
 .header p{
 	font-size: 12px;
 	color: #505050;
